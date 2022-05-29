@@ -1,6 +1,6 @@
 # iOS4Android_iLauncher
 Fork of  itsJoKr's iOS4Android. https://github.com/itsJoKr/iOS4Android
-All I did was update everything to be null-saftey compliant and dumped all the flutter/dart componenets into a new flutter project to avoid dealing with an old gradle.
+All I did was update everything to be null-safety compliant and dumped all the flutter/dart componenets into a new flutter project to avoid dealing with an old gradle.
 
 ## Requirements
 - Dart: https://dart.dev/get-dart
