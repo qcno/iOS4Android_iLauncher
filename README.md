@@ -12,4 +12,5 @@ This is highly likely to be orphaned.
 Given the smoothness of the demo app, this could be made into a real launcher to rival the fidelity of suckamoni's iLauncher.
 I'm not a programmer and know even less when it comes to android development and github. So, update intervals to this repo will be turbulent at the very best.
 
-![alt text](http://url/to/img.png](https://github.com/qcno/iOS4Android_iLauncher/blob/main/cups.png?raw=true)
+YOU SEE. I DONT KNOW WHAT AHAH
+![alt text](https://github.com/qcno/iOS4Android_iLauncher/blob/main/cups.png?raw=true)
